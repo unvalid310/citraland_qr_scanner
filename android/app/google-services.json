@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669114705600",
+    "project_id": "citraland-d6c50",
+    "storage_bucket": "citraland-d6c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669114705600:android:c5078fc69f80e59336af25",
+        "android_client_info": {
+          "package_name": "com.citraland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669114705600-9fgdrnoe5qu2ed07amugpdjseqfr0sku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citraland",
+            "certificate_hash": "bd05bf2934e30ea5b3db5d46cbd7ac471d310591"
+          }
+        },
+        {
+          "client_id": "669114705600-eg2u7nd32t0o2qpkh3f59irusgn0drjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsru2anazSXACTiQZF73kIMTve4lAn_lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669114705600-eg2u7nd32t0o2qpkh3f59irusgn0drjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
